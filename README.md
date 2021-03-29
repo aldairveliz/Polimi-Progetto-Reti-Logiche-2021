@@ -4,8 +4,8 @@ Lo scopo del progetto è quello di realizzare un componente HW in VHDL
 che data un’immagine in ingresso, trasformi ogni pixel dell’immagine
 seguendo un algoritmo semplificato di equalizzazione.
 
-Descrizione [qui](https://github.com/aldairveliz/Polimi-Progetto-Reti-Logiche-2021/blob/main/documents/ProvaFinale2021.pdf)
+Descrizione [qui](https://github.com/aldairveliz/Polimi-Progetto-Reti-Logiche-2021/tree/master/documents/ProvaFinale2021.pdf)
 
-Specifica [qui](https://github.com/aldairveliz/Polimi-Progetto-Reti-Logiche-2021/blob/main/documents/ProvaFinale2021specifica.pdf)
+Specifica [qui](https://github.com/aldairveliz/Polimi-Progetto-Reti-Logiche-2021/tree/master/documents/ProvaFinale2021specifica.pdf)
 
-Documentazione [qui](https://github.com/aldairveliz/Polimi-Progetto-Reti-Logiche-2021/blob/main/documents/documentazione.pdf)
+Documentazione [qui](https://github.com/aldairveliz/Polimi-Progetto-Reti-Logiche-2021/tree/master/documents/documentazione.pdf)
